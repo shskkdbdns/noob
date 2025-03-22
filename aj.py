@@ -8,7 +8,7 @@ import psutil  # For system monitoring
 from datetime import datetime
 
 # Hardcoded API credentials
-API_ID = 1257888659  # Replace with your Telegram API ID
+API_ID = 22451508  # Replace with your Telegram API ID
 API_HASH = "8d0180e35213d71884baecdb5aa329e1"  # Replace with your Telegram API Hash
 BOT_TOKEN = "6098885239:AAEdNugC1-rLImsUY7iE7uYpBFRFRlhM6dw"  # Replace with your bot token
 
