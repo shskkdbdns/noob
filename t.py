@@ -15,7 +15,7 @@ bot = telebot.TeleBot('6098885239:AAH_NmAE8a4wBWtYtUz1wICoS6k29md2wvc')
 # Admin user IDs
 admin_id = {"1257888659"}
 # Channel ID to send feedback screenshots
-feedback_channel_id = '@-1002486348129'  # Use the actual channel username with @ or channel ID
+feedback_channel_id = '@bgmihackset'  # Use the actual channel username with @ or channel ID
 
 # Files for data storage
 USER_FILE = "users.json"
