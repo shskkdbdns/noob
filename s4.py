@@ -12,7 +12,7 @@ import os
 # @ZEXONOP009 GRP# insert your Telegram bot token here
 
     
-bot = telebot.TeleBot('7962699728:AAG3d8be8bkrdLW2Ph7y5btUPVR53oop9c8')
+bot = telebot.TeleBot('7834451064:AAH0Hzb9Iw8h7lVgGsl_p1CaS-b1FKGB86w')
 
 # @Fire_Sanu GRP # Admin user IDs
 admin_id = ["1257888659"]
