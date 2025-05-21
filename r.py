@@ -13,7 +13,7 @@ from dateutil.relativedelta import relativedelta
 import time
 
 # Idef create_random_key()nsert your Telegram bot token here
-bot = telebot.TeleBot('7834451064:AAH0Hzb9Iw8h7lVgGsl_p1CaS-b1FKGB86w')
+bot = telebot.TeleBot('7834451064:AAEjXhw9fCl_Y-aPT7wGRo04Z2EtAjjAHVw')
 
 # Admin user IDs
 admin_id = {"1257888659"}
